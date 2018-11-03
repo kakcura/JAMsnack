@@ -1,0 +1,35 @@
+.footer-container {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+  color: white;
+  background: black;
+  padding: 10px;
+  margin-top: 1.45rem;
+  text-align: center;
+}
+
+.copyright {
+  margin-left: 40px;
+}
+
+/* .contributor-container {
+  width: 60%;
+  height: fit-content;
+  text-align: right;
+  float: right;
+} */
+
+/* .unordered-list-footer {
+  box-sizing: border-box;
+  display: inline-block;
+  height: fit-content;
+} */
+
+/* .unordered-list-footer li{
+  list-style-type: none;
+  display: inline-block;
+  box-sizing: border-box;
+  height: fit-content;
+} */
+
