@@ -12,5 +12,3 @@ const SecondPage = () => (
 )
 
 export default SecondPage
-
-// my code here
