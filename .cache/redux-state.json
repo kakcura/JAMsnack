@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/space/Hackletton15/JAMsnack/.cache/dev-404-page.js",
+      "component": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/space/Hackletton15/JAMsnack/.cache/dev-404-page.js",
+      "componentPath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e0a074dc946dec5ace58ac087ec6ec69",
+        "contentDigest": "1c8cb24fe62ed949db59be62dab5f811",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/space/Hackletton15/JAMsnack/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/space/Hackletton15/JAMsnack/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c6d8fb73cecf8a94eb533fc1f3d61a02",
+        "contentDigest": "0e7a1a5b5046c349bc20919163181d71",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin load-babel-config": {
-      "resolve": "/space/Hackletton15/JAMsnack/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "Plugin load-babel-config",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/space/Hackletton15/JAMsnack/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "82373dcdf1009fe2d90272c6142d69a2",
+        "contentDigest": "9283a754534afb8b6573f1a03fc09a3d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/space/Hackletton15/JAMsnack/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/space/Hackletton15/JAMsnack/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8e86e891ede1b00e1fb275bc105ca721",
+        "contentDigest": "331d46b9120f5b15b4b8cc971cdade4f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/space/Hackletton15/JAMsnack/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/space/Hackletton15/JAMsnack/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a9eedcc00b425600587aa414bf083302",
+        "contentDigest": "180bfa64ea1acbd35917b2b121818aed",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/space/Hackletton15/JAMsnack/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/space/Hackletton15/JAMsnack/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,13 +191,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4b4090f33486863ebddd4f72a2161cd8",
+        "contentDigest": "571e9452ed7c3a271d3d99cb5489cf3b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/space/Hackletton15/JAMsnack/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.0",
@@ -209,7 +209,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/space/Hackletton15/JAMsnack/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -231,7 +231,10 @@
           "noscript",
           "style"
         ],
-        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -269,13 +272,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bc12b03e9c2e4ff0f7e63b50a2d6d5ba",
+        "contentDigest": "3e735e4dac07c987d1b96435c127e19b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-manifest": {
-      "resolve": "/space/Hackletton15/JAMsnack/node_modules/gatsby-plugin-manifest",
+      "resolve": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby-plugin-manifest",
       "id": "Plugin gatsby-plugin-manifest",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.5",
@@ -296,7 +299,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/space/Hackletton15/JAMsnack/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -311,7 +314,10 @@
           "progressive-web-app",
           "pwa"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -353,16 +359,16 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f0716c2cbbcc49e5a0f21826d1628f5c",
+        "contentDigest": "0f1b7ec3c6e6d6686c045df1602768e6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-offline": {
-      "resolve": "/space/Hackletton15/JAMsnack/node_modules/gatsby-plugin-offline",
+      "resolve": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby-plugin-offline",
       "id": "Plugin gatsby-plugin-offline",
       "name": "gatsby-plugin-offline",
-      "version": "2.0.6",
+      "version": "2.0.5",
       "pluginOptions": {
         "plugins": []
       },
@@ -372,15 +378,15 @@
       ],
       "browserAPIs": [
         "registerServiceWorker",
-        "onPostPrefetchPathname",
+        "onPrefetchPathname",
         "onServiceWorkerActive"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/space/Hackletton15/JAMsnack/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
-        "version": "2.0.6",
+        "version": "2.0.5",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -389,7 +395,10 @@
           "precache",
           "service-worker"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -435,13 +444,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "cf091d7e34f5d4257b5d4ec25c2f6d68",
+        "contentDigest": "6f555ad568e5139c3cbfc97ef1a223aa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/space/Hackletton15/JAMsnack",
+      "resolve": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "331e43a41ecdd856450680443efcf998",
@@ -451,7 +460,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/space/Hackletton15/JAMsnack",
+      "pluginFilepath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -504,19 +513,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "68f637ce023c85eb47d238d93948e2db",
+        "contentDigest": "bb385c3f6286928f026c6f7804487230",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/space/Hackletton15/JAMsnack/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/space/Hackletton15/JAMsnack/src/pages",
+        "path": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -524,7 +533,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/space/Hackletton15/JAMsnack/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -534,7 +543,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -596,7 +608,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5cbe6ee86ab608d3fb6ee789918397e5",
+        "contentDigest": "7e88032d6ad8e42cdd9bed77ee0c8fec",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -609,12 +621,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-03T20:16:28.222Z",
+      "buildTime": "2018-11-03T23:44:28.800Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "44c38e78e92fa7bc790cbac4589669fe",
+        "contentDigest": "8a7d13d2238c93867207cd75f8a714ff",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -623,18 +635,18 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/space/Hackletton15/JAMsnack/src/pages/404.js",
+      "component": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/space/Hackletton15/JAMsnack/src/pages/404.js",
+      "componentPath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9260d7d8380b2b6e565f2a020d804e6e",
+        "contentDigest": "ddda08c3f5bffa75244c76839b59413e",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -643,18 +655,18 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/space/Hackletton15/JAMsnack/src/pages/index.js",
+      "component": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/space/Hackletton15/JAMsnack/src/pages/index.js",
+      "componentPath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a3e63207b2f1e87263977868dee0d7f7",
+        "contentDigest": "35872c32222ee35612679df1fc317e6f",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -663,18 +675,18 @@
       "jsonName": "page-2-fbc",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "/space/Hackletton15/JAMsnack/src/pages/page-2.js",
+      "component": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/space/Hackletton15/JAMsnack/src/pages/page-2.js",
+      "componentPath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "81428cd56a347f77ea8880f6faaca0e3",
+        "contentDigest": "59f27a1f763505ded05a558112b88bd0",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -683,18 +695,18 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/space/Hackletton15/JAMsnack/src/pages/404.js",
+      "component": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/space/Hackletton15/JAMsnack/src/pages/404.js",
+      "componentPath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5149692700c32d38d574eefde1719ce9",
+        "contentDigest": "442c81984f6df96c99f60cf1faabff99",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -702,7 +714,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "0b346e0c55aa9c5983562055c896801c"
+    "PLUGINS_HASH": "268c8642ae0b91a0094330d998e95a37"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -718,30 +730,31 @@
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
     "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
-    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "page-2-a-6a2": "75/path---page-2-a-6-a-2-5ff-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/space/Hackletton15/JAMsnack/.cache/dev-404-page.js": {
+    "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/space/Hackletton15/JAMsnack/.cache/dev-404-page.js"
+      "componentPath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/.cache/dev-404-page.js"
     },
-    "/space/Hackletton15/JAMsnack/src/pages/404.js": {
+    "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/404.js": {
       "query": "",
-      "componentPath": "/space/Hackletton15/JAMsnack/src/pages/404.js"
+      "componentPath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/404.js"
     },
-    "/space/Hackletton15/JAMsnack/src/pages/index.js": {
+    "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/index.js": {
       "query": "",
-      "componentPath": "/space/Hackletton15/JAMsnack/src/pages/index.js"
+      "componentPath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/index.js"
     },
-    "/space/Hackletton15/JAMsnack/src/pages/page-2.js": {
+    "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/page-2.js": {
       "query": "",
-      "componentPath": "/space/Hackletton15/JAMsnack/src/pages/page-2.js"
+      "componentPath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/pages/page-2.js"
     }
   },
   "staticQueryComponents": {
     "sq--src-components-layout-js": {
       "name": "SiteTitleQuery",
-      "componentPath": "/space/Hackletton15/JAMsnack/src/components/layout.js",
+      "componentPath": "/Users/raphaelgako/Documents/School_fcc/fcc_hackathon_jamstack/JAMsnack/src/components/layout.js",
       "id": "sq--src-components-layout-js",
       "jsonName": "sq--src-components-layout-js",
       "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
