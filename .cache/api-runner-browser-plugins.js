@@ -1,7 +1,7 @@
 module.exports = [{
-      plugin: require('/space/Hello/JAMstack/node_modules/gatsby-plugin-offline/gatsby-browser'),
+      plugin: require('/space/Hackletton15/JAMsnack/node_modules/gatsby-plugin-offline/gatsby-browser'),
       options: {"plugins":[]},
     },{
-      plugin: require('/space/Hello/JAMstack/gatsby-browser.js'),
+      plugin: require('/space/Hackletton15/JAMsnack/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
