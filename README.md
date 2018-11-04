@@ -4,7 +4,7 @@
 
 A web platform to help making healthy eating decisions. Just take a picture of your food and see if it is healty or not.
 
-Happy healty snack Jamming!!!
+Happy Healty Snack Jamming!!!
 
 INSTALL
 =======
