@@ -2,7 +2,7 @@
   What is JAMsnack?
 </h1>
 
-A web platform to help making healthy eating decisions. Just take a picture of your food and see if it is healty or not.
+A web app to help making healthy eating decisions. Just take a picture of your food and see if it is healty or not.
 
 Happy Healty Snack Jamming!!!
 
