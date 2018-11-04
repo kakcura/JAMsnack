@@ -1,13 +1,14 @@
 import React from 'react'
 import { Link } from 'gatsby'
-
 import Layout from '../components/layout'
 
 const IndexPage = () => (
   <Layout>
-    <h1>What is JAMstack?</h1>
-    <p>Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.</p>
-    <Link to="/page-2/">Reasons I Should Consider JAMstack</Link>
+    <h1>JAM Snack</h1>
+    <p>This is a an app, we built as a part of Jamstack Hackathon.  
+    </p>
+    <Link to="/page-2/">Our Project Here:</Link>
+    
   </Layout>
 )
 

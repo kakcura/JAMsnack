@@ -1,2 +1,4 @@
-src/pages/page-2a.js
 node_modules
+package-lock.json
+public
+.cache
