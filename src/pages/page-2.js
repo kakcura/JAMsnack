@@ -7,13 +7,11 @@ import MediaDevice from '../components/Media.Device/Media.Device';
 
 const SecondPage = () => (
   <Layout>
-    <h1>JAM Snack Project</h1>
+    <h1>JAMsnack</h1>
     <p>
-      We have used Clarafai API to build this. The project involves you upload a
-      picture and our app tells you if it is healthy or not. By telling yu it's
-      ingredients. For faster development. 
+      Please upload/take picture of your food to see if it is healty.
     </p>
-    <Link to="/">JAMsnack?</Link>
+    <Link to="/">What is JAMsnack?</Link>
     <UploadBtn/>
   </Layout>
 );
