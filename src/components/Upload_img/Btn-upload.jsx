@@ -18,9 +18,6 @@ class UploadBtn extends Component {
     return ( 
       <form id='upload-image-form'>
         <input type="file" name="pic" accept="image/*;capture=camera" id='input-image' onChange={(e) => this.handleChangeFileName(e)}/>
-        <button type='submit' className='btn-submit' htmlFor='input-image'>
-          Browse
-        </button>
         <span className='file-name'>{uploadFileName}</span>
         <p className='some-text'>Lets see what if its healthy</p>
       </form>

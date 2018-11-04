@@ -15,7 +15,6 @@ const SecondPage = () => (
     </p>
     <Link to="/">JAMsnack?</Link>
     <UploadBtn/>
-    <MediaDevice/>
   </Layout>
 );
 
