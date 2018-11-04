@@ -1,7 +1,9 @@
 import React from "react";
 import { Link } from "gatsby";
 
-import Layout from "../components/layout";
+import Layout from '../components/layout'
+import UploadBtn from '../components/Upload_img/Btn-upload';
+import MediaDevice from '../components/Media.Device/Media.Device';
 
 const SecondPage = () => (
   <Layout>
@@ -12,6 +14,8 @@ const SecondPage = () => (
       ingredients. For faster development. 
     </p>
     <Link to="/">JAMsnack?</Link>
+    <UploadBtn/>
+    <MediaDevice/>
   </Layout>
 );
 
